@@ -1,0 +1,6 @@
+module Pods_googleCalendarApp {
+  umbrella header "Pods-googleCalendarApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
